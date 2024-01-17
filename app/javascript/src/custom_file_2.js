@@ -1,0 +1,1 @@
+alert("Custom file 2 in Webpacker!");
